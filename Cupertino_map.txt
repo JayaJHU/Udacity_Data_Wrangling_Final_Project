@@ -1,0 +1,10 @@
+Map Area
+Location: Cupertino, California, USA
+
+Why I chose this area?
+I chose Cupertino, CA, USA because this is where I currently live. It is my home and am very familiar with this city. Cupertino is a U.S. city in Santa Clara County, California. The city is renown as a center of innovation in Silicon Valley. Cupertino is famous as the home of high-tech giant Apple Inc. Within the 13 square miles, this city has a population of 64,000 people. This city is known for its excellent public schools. More than 60% of its residents aged 25 years and older hold a bachelor's degree or higher, and more than 40% were born outside of the United States. Cupertino is 42 miles south of San Francisco. As part of this data wrangling project, I wanted to check the quality of the Cupertino map data from OpenStreetMap.org.
+
+
+Cupertino data was exported from https://www.openstreet.org and I downloaded a XML OSM dataset. My dataset is about 55.3 MB (uncompressed). I used Overpass API and downloaded a custom square area.
+
+https://www.openstreetmap.org/relation/2221709

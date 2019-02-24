@@ -1,0 +1,15 @@
+References Used:
+
+1. Udacity Forum
+2. Stackoverflow
+3. Github Repositories and Websites
+    a. https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-	sample_project-md
+    b. https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+    c. http://puwenning.github.io/2016/02/10/P3-project-openstreetmap-data-	case-study/
+    d. http://luizschiller.com/openstreetmap/
+    e. https://baocongchen.github.io/Wrangle-OpenStreetMap-Data/
+    f. https://github.com/pratyush19/Udacity-Data-Analyst-	Nanodegree/tree/master/P3-OpenStreetMap-Wrangling-with-SQL
+    g. https://github.com/dksmith01/Miami-OSM-	Wrangling/blob/master/P3%20Open%20Street%20Map%20Wrangling%20%2B	%20MongoDB%20queries.ipynb
+    h. https://olegleyz.github.io/data_wrangling.html
+    i. http://napitupulu-jon.appspot.com/posts/wrangling-openstreetmap.html
+    j. https://github.com/lmarkely/openstreetmap/blob/master/OSM%20Project	%20Code.ipynb
