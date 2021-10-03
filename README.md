@@ -3,7 +3,7 @@ Udacity Data Wrangling Final Project
 
 Data Analyst NanoDegree Program
 
-# Wrangle OpenStreetMap Data
+# Wrangle OpenStreetMap Data & Explore with SQL
 In this project I used data wrangling techniques, such as assessing data for validity, accuracy, completeness, consistency and uniformity to clean OpenStreetMap data for a part of the world that I care.
 
 1. Acquire and generate a sample data
@@ -12,8 +12,7 @@ In this project I used data wrangling techniques, such as assessing data for val
 4. Clean the data by fixing the problems
 5. Prepare the data to be inserted into a SQL database
 
-The steps above served as a good guide for me as it helped me get through the data wrangling project carefully. It helped me to successfully go through the auditing and cleaning process of this dataset. Eventually, transferring the cleaned data to .csv files.
-
+The steps above served as a good guide for me as it helped me get through the data wrangling project carefully. It helped me to successfully go through the auditing and cleaning process of this dataset. Eventually, transferring the cleaned data to .csv files.  The next step was to prepare the data to be inserted into a SQL database.  I used SQLite3 to create the database. After importing the data to SQL, I investigated and explored the with SQL.
 
 
 
